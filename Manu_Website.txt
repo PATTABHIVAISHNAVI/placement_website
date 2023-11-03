@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<style>
+body {background-color: LavenderBlush;font-family:TimesRoman;}
+h2,h3   {color: blue;font-family:TimesRoman;}
+p       {color: Maroon;font-family:TimesRoman,font-size:300%;}
+pre	  {color: Maroon;font-family:TimesRoman,font-size:200%;}
+
+.webs{
+	margin: 20px;
+	padding: 20px;
+	border: 2px solid MediumSeaGreen;
+	background-color:powderblue;
+	color:Maroon;
+	padding:20px;
+
+}
+
+</style>
+
+ <title>The future for ELectrical Engineers</title>
+</head>
+<body>
+<b>
+<div class="webs" style="background-color:FloralWhite;">
+<h1 style="text-align:center;">FUTURE OPTIONS FOR ELECTRICAL ENGINEERS</h1>
+
+<h2>Streams after Electrical Engineering</h2>
+<p style="color: Maroon;font-family:TimesRoman,font-size:300%;"><b>
+<a href="file:///C:/Users/patta/OneDrive/Documents/engineering1.html#C1" target="_self">1. GATE EXAM</a><br>
+<a href="file:///C:/Users/patta/OneDrive/Documents/engineering1.html#C2" target="_self">2. GRE and IELTS or TOEFL</a><br>
+<a href="file:///C:/Users/patta/OneDrive/Documents/engineering1.html#C3" target="_self">3. Government jobs</a><br>
+<a href="file:///C:/Users/patta/OneDrive/Documents/engineering1.html#C4" target="_self">4. UPSC</a><br>
+<a href="file:///C:/Users/patta/OneDrive/Documents/engineering1.html#C5" target="_self">5. Software Enginnering</a><br>
+</b></p>
+</div>
+
+
+
+<div class="webs">
+<h3 id="C1">GATE EXAM</h3>
+<p>
+Many students dream is to get into IIT's and NIT's .There is still an option to get into these dream colleges i.e, by writing the 
+GATE (Graduate Aptitude Test in Engineering) exam. This exam is written by the students who are willing to pursue MTECH in thier streams. Gate exam is 
+generally conducted every year by IIT's.
+<br>
+</p><ol>
+<ol>
+<br>
+<img src="https://tse4.mm.bing.net/th?id=OIP.1041Ju8ckN3opPAUuAAXoQHaE7&pid=Api&P=0&h=180" alt="GATE logo" widhth="300" height="100">
+<br>
+The official website of GATE exam link is <a href="https://gate.iitk.ac.in/index.html" target="_blank"> OFFICIAL WEBSITE</a>
+<br>
+Syllabus for the electrical Engineering paper in gate. Click the link <a href="https://gate.iitk.ac.in/doc/Syllabus/ee.pdf" target="_blank">SYLLABUS</a>
+<br>
+The previous years question papers are the guiding light for the preparation to GATE.By clicking the link below you can downloqad the papers
+<br><a href="https://gate.iitkgp.ac.in/old_question_papers.html" target="_blank">DOWNLOAD QUESTION PAPERS HERE</a><a>
+<p></p>
+</a></ol></ol></div><a>
+
+
+
+</a><div class="webs"><a>
+<h3 id="C2">GRE EXAM</h3>
+<p>
+GRE is Graduate Record Exam which is conducted every year which is conducted by ETS (Educational Testing Service). This test can be attempted 
+in both the ways i.e, in computer based and paper based so we have both online and offline facilities. This exam is mainly written by the students 
+who are willing to study in abroad in thier dream university. Once the Exam is written it is valid upto 5years.It has 2 sections apptitude and the subject section. These sections contains Verbal Reasoning, Quantitative Reasoning, and Analytical Writing section.
+There are no sections for the GRE subject test.
+</p></a><ol><a>
+</a><ol><a>
+<br>
+<img src="./The future for ELectrical Engineers_new_files/th" alt="ETS logo" width="300" height="200">
+<br>
+Official website link  for the GRE is </a><a href="https://www.ets.org/gre" target="_blank">OFFICIAL WEBSITE GRE</a>
+<br>
+Download sample questions here <a href="https://www.ets.org/pdfs/gre/gre-sample-questions.pdf" target="_blank">QUESTIONS</a>
+<br>
+Along with the GRE exam there is another exam to be written i.e, IELTS and TOEFL . Anyone exam is written but the GRE is compulsary one.
+<br>
+<a href="https://www.ielts.org/" target="_blank">IELTS official website</a>
+<br>
+<a href="https://r.search.yahoo.com/_ylt=AwrKCcNpduJjg.sVZ8S7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1675814633/RO=10/RU=https%3a%2f%2ftoefltest.in%2f/RK=2/RS=GfqomDapT.4dHVle29ubF2M68rQ-" target="_blank">TOEFL official website</a>
+<br>
+Anyone of these two is written. But the GRE paper is must to write and get the entry for the desired college. Most often the engineering streams are
+only choosed for the higher studies also i.e, if you have done your graduation in Electrical stream then we can go for the electrical field branch but not completely
+Computer science branch. Orelse we even sometimes get an opportunity to choose the branch which is common to both the branches. If we want to try for the 
+Other stream branches we need to go for the different certifications in it i.e, Minor degree courses , Online certifications etc.
+<br>
+<p></p>
+</ol></ol></div>
+
+
+<div class="webs">
+<h3 id="C3">TSPSC AEE</h3>
+<p>
+After btech only we are eligible to write the exam to get the Assistant Engineer post.We have different AE jobs in different departments.
+i.e, in GENCO,TRANSCO,SPDCL,NPDCL etc. The government will release the notification for the conduction of exam.
+</p><ol>
+<ol>
+<img src="./The future for ELectrical Engineers_new_files/th(1)" widht="300" height="200">
+<br>
+<a href="https://websitenew.tspsc.gov.in/" target="_blank">link to the official website </a>
+<p></p>
+</ol></ol></div>
+
+
+
+<div class="webs">
+<h3 id="C4">UPSC EXAM</h3>
+<p>
+UPSC (Union Public Service Commission) releases exam notices of the various recruitment examinations every year. There is a vast array of services for which UPSC Exams are held.
+The Civil Services Examination recruits candidates for Group A and Group B services and posts
+Every year the upsc examination is conducted. Lakhs of students apply for this examination but only hundreds of them are selected.
+This exam is conducted in three stages.
+</p><ol>
+<li>Preliminary stage</li>
+<li>Mains exam stage</li>
+<li>Interview stage</li>
+<ol>
+
+There is an age limit to write the examination. This exam can only be written by the people who are between 21years to 32years.
+Only then they are eligible to write the examination.This exam rest you on the Apptitude test, General studies,Environment,Languages and it even has one optional subject
+where we have a choice to choose that optional according to our wish. This exam can be written in 2 languages only i.e, Hindi and English.
+Only by writing one exam we have option to get many posts like IAS,IFS,IPS,IRS etc., based on our rank and our category.In order to write this examination we need to have a graduation 
+degree in our hand.
+<ol>
+<ol>
+<br>
+<img src="./The future for ELectrical Engineers_new_files/th(2)" width="300" height="200" alt="UPSC">
+<br>
+The official website for the UPSC(union public service commission) is <a href="https://upsc.gov.in/" target="_blank"> OFFICIAL WEBSITE </a>
+<br>
+Every year UPSC releases the syllabus book. This will be holy book for all the aspirants.The syllabus book for the year 2023 is this
+<a href="https://www.upsc.gov.in/sites/default/files/Notif-CSP-23-engl-010223.pdf" target="_blank"> SYLLABUS BOOK</a>
+Prevoius year question papers can be collected from this link <a href="https://www.upsc.gov.in/examinations/previous-question-papers" target="_blank">PREVIOUS YEARS QUESTION PAPERS</a> 
+<p></p>
+</ol></ol></ol></ol></div>
+
+
+<div class="webs">
+<h3 id="C5">SOFTWARE JOBS</h3>
+<p>
+Even though we are in electrical stream we even have the option to get into IT sector. We can go for the software sector also by preparing the software languages, aptitude test,and even have to 
+prepare for the interview. Here an alround skills are required. 
+</p><ol>
+<ol>
+<br>
+<img src="./The future for ELectrical Engineers_new_files/th(3)" width="300" height="200">
+<br>
+
+we are having many websites inorder to practice the software skills. such as
+<br>
+<a href="https://www.w3schools.com/" target="_blank">W3 Schools</a>
+<br>
+<a href="https://www.hackerrank.com/" target="_blank">HACKER RANK</a>
+<br>
+<a href="https://www.geeksforgeeks.org/" target="_blank">GEEKS FOR GEEKS</a>
+<br>
+<a href="https://leetcode.com/" target="_blank">LEET CODE</a>
+<br>
+
+In this way we ca practice the coding questions and apptitude in order to get aquaint with the topics
+
+
+<p></p>
+
+</ol></ol></div>
+
+
+
+
+
+</b>
+
+
+
+</body></html>
